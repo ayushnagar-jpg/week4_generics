@@ -1,4 +1,4 @@
-package smarthouse.mealplangenerator;
+package generics.mealplangenerator;
 
 public class VegetarianMeal implements MealPlan {
     @Override

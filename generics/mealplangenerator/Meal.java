@@ -1,6 +1,6 @@
-package smarthouse.mealplangenerator;
+package generics.mealplangenerator;
 
-import smarthouse.mealplangenerator.MealPlan;
+import generics.mealplangenerator.MealPlan;
 
 
 @SuppressWarnings("unused")

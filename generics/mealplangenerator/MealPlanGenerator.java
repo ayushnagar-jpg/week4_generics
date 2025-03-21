@@ -1,8 +1,8 @@
-package smarthouse.mealplangenerator;
+package generics.mealplangenerator;
 
 import java.util.Scanner;
 
-
+//Main
 public class MealPlanGenerator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
