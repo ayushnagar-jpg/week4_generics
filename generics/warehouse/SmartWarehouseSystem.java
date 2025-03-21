@@ -18,12 +18,12 @@ public class SmartWarehouseSystem {
         electronicsStorage.displayItems();
 
         System.out.println("\nGroceries Storage:");
-        groceriesStorage.displayItems();
+         groceriesStorage.displayItems();
 
         System.out.println("\nFurniture Storage:");
         furnitureStorage.displayItems();
 
-        // Display all items using wildcard method
+        // Display all items using wildcard method\
         System.out.println("\nDisplaying all stored items:");
         WarehouseUtility.displayAllItems(electronicsStorage.getItems());
         WarehouseUtility.displayAllItems(groceriesStorage.getItems());
