@@ -1,4 +1,4 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 //Concrete Job Role: Product Manager
 public class ProductManager extends JobRole {

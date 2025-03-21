@@ -1,4 +1,4 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 import java.util.Arrays;
 import java.util.List;

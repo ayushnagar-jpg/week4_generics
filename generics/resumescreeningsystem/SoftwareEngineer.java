@@ -1,6 +1,7 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 //Concrete Job Role: Software Engineer
+//dfdg
 public class SoftwareEngineer extends JobRole {
  String programmingLanguage;
 

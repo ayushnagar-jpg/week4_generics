@@ -1,4 +1,4 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 
 //Generic Class for Resume Processing

@@ -1,4 +1,4 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 
 //Concrete Job Role: Data Scientist

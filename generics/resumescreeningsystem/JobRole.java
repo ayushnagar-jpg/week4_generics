@@ -1,4 +1,4 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 //Abstract Class for Job Role
 public abstract class JobRole {

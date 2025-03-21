@@ -1,9 +1,9 @@
-package smarthouse.resumescreeningsystem;
+package generics.resumescreeningsystem;
 
 
 import java.util.List;
 
-// AI Screening System
+// AI Screening System f
 public class ResumeScreeningSystem {
     // Wildcard method to process multiple job roles
     public static void processMultipleResumes(List<? extends JobRole> resumes) {
