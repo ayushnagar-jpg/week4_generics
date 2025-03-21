@@ -1,4 +1,4 @@
-package smarthouse.warehouse;
+package generics.warehouse;
 
 
 public abstract class WarehouseItem {

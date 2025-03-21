@@ -1,4 +1,4 @@
-package smarthouse.warehouse;
+package generics.warehouse;
 
 public class SmartWarehouseSystem {
     public static void main(String[] args) {
