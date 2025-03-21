@@ -1,4 +1,4 @@
-package smarthouse.dynamiconlinemarketplace;
+package generics.dynamiconlinemarketplace;
 
 import java.util.ArrayList;
 import java.util.List;

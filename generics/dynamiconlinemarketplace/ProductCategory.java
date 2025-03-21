@@ -1,4 +1,4 @@
-package smarthouse.dynamiconlinemarketplace;
+package generics.dynamiconlinemarketplace;
 
 public enum ProductCategory {
     BOOKS, CLOTHING, GADGETS;

@@ -1,5 +1,5 @@
-package smarthouse.dynamiconlinemarketplace;
-
+package generics.dynamiconlinemarketplace;
+//main
 public class MarketplaceMain {
     public static void main(String[] args) {
         // Creating Product Instances

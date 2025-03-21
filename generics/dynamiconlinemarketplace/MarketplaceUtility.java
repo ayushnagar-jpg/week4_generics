@@ -1,4 +1,4 @@
-package smarthouse.dynamiconlinemarketplace;
+package generics.dynamiconlinemarketplace;
 
 public class MarketplaceUtility {
     public static <T extends Product<?>> void applyDiscount(T product, double percentage) {

@@ -1,4 +1,4 @@
-package smarthouse.dynamiconlinemarketplace;
+package generics.dynamiconlinemarketplace;
 
 public class Product<T extends ProductCategory> {
     private String name;
