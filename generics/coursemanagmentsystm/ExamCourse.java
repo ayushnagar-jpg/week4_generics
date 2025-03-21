@@ -1,4 +1,4 @@
-package smarthouse.coursemanagmentsystm;
+package generics.coursemanagmentsystm;
 
 public class ExamCourse extends CourseType {
     private int totalMarks;

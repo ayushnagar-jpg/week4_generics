@@ -1,4 +1,4 @@
-package smarthouse.coursemanagmentsystm;
+package generics.coursemanagmentsystm;
 
 import java.util.List;
 

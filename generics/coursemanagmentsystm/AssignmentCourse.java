@@ -1,4 +1,4 @@
-package smarthouse.coursemanagmentsystm;
+package generics.coursemanagmentsystm;
 
 public class AssignmentCourse extends CourseType {
     private int totalAssignments;

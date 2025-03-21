@@ -1,5 +1,5 @@
-package smarthouse.coursemanagmentsystm;
-
+package generics.coursemanagmentsystm;
+//Main
 public class UniversityManagementSystem {
     public static void main(String[] args) {
         // Creating different course categories

@@ -1,4 +1,4 @@
-package smarthouse.coursemanagmentsystm;
+package generics.coursemanagmentsystm;
 
 public abstract class CourseType {
     private String courseName;
