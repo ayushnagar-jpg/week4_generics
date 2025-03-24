@@ -1,0 +1,21 @@
+import java.io.*;
+
+public class CheckedExceptionExample {
+    public static void main(String[] args) {
+        String fileName = "C:\\Users\\hp\\Desktop\\JAVA\\week4_generics\\generics\\src\\exception_handling\\checkedexception\\data.txt";
+
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName))) {
+            String line;
+            System.out.println("File contents:");
+            while ((line = bufferedReader.readLine()) != null) {
+                System.out.println(line);
+            }
+        } 
+        catch (FileNotFoundException e) {
+            System.out.println("File not found");
+        } 
+        catch (IOException e) {
+            System.out.println("An error occurred while reading the file.");
+        }
+    }
+}
