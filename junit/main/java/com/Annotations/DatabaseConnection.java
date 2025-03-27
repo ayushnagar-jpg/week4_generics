@@ -14,7 +14,7 @@ public class DatabaseConnection {
         System.out.println("Database disconnected");
     }
 
-    // Method to check if the connection is active
+    // Method to check if connection is active
     public boolean isConnected() {
         return isConnected;
     }
