@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class FileProcessorTest {
     private static final String TEST_FILE = "testfile.txt";
 
-    // ✅ Test writing and reading from a file
+    // Test writing and reading from a file
     @Test
     void testWriteAndReadFromFile() throws IOException {
         String content = "Hello, JUnit!";
@@ -23,7 +23,7 @@ class FileProcessorTest {
         assertEquals(content, readContent, "File content should match.");
     }
 
-    // ✅ Test if file exists after writing
+    // Test if file exists after writing
     @Test
     void testFileExistsAfterWriting() throws IOException {
         FileProcessor.writeToFile(TEST_FILE, "Sample Content");
